@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Vulkan AI Manager",
+  "description": "On-device LLM runtime manager with Vulkan GPU acceleration support and interactive chat.",
+  "requestFramePermissions": []
+}
